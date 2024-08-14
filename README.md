@@ -1,5 +1,15 @@
 # pom-pom-period-tracker
 - write notes for each day
-- microsoft bottom right notifications
-- pom themed calender
+- microsoft bottom right notifications to take pill or to enter daily info
+- pom themed calendar
 - daily pom mood chart
+- libido tracker
+- calender to track menstruation cycle
+- quick symptom button adders: bleed, acne, cravings, etc.
+- add integrated quick tips and info about period and symptoms
+- add page for links to even more info on periods and pmdd
+- vaginal discharge logger(birth control something something)
+- physical activity logger
+- sleep logger
+- add page to view each tracked item as a graph or heatmap on a calendar
+- total days logged/log streak number
